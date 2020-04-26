@@ -4,7 +4,7 @@
 
 python generate_keys.py
 
-## Now your keys will be stored as-
+# Now your keys will be stored as-
 
 public key in file named public_key_1024.pem
 
